@@ -6,6 +6,7 @@ import HeroSection from './HeroSection/layout'
 import WelcomeCoachingSection from './WelcomeCoachingSection/layout'
 import StartLearningSection from './StartLearningSection/layout'
 import LoginForm from './LoginForm/layout'
+import StartGrowingCommunity from './StartGrowingCommunity/layout'
 
 function App() {
 
@@ -20,6 +21,8 @@ function App() {
    <StartLearningSection/>
    <div className='h-[10rem]'></div>
 <LoginForm/>
+<div className='h-[10rem]'></div>
+<StartGrowingCommunity/>
     </div>
   )
 }
