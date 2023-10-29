@@ -13,9 +13,9 @@ function App() {
    <Navbar/>
    <div className='h-[4.5rem]'></div>
    <HeroSection/>
-   <div className='h-[4.5rem]'></div>
+   <div className='h-[10rem]'></div>
    <WelcomeCoachingSection/>
-   <div className='h-[4.5rem]'></div>
+   <div className='h-[10rem]'></div>
    <StartLearningSection/>
     </div>
   )
