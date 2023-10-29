@@ -35,6 +35,6 @@ return <button className="w-[12.5rem] h-[2.75rem] bg-[#682C0E] rounded-xl p-2 te
 }
 class ImageContainer extends Component{
     render(){
-        return <img  src={StudyIllstration}/>
+        return <img style={{maxWidth:"30.4375rem"}} src={StudyIllstration}/>
     }
 }
